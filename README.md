@@ -1,4 +1,4 @@
-# Abby's Games 
+# Games 
 
 This repository contains a collection of remade fav games.
 
