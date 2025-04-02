@@ -1,8 +1,8 @@
-# Abby's Code Projects
+# Abby's Games 
 
-This repository contains a collection of my coding projects and experiments.
+This repository contains a collection of remade fav games.
 
-## Projects
+## Games
 
 ### 1. Tetris
 
